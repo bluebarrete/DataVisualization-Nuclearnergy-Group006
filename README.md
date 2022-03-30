@@ -1,2 +1,2 @@
 # DataVisualization-Nuclearnergy-Group006
-DataVisualization Project Submitted to Proffessor  Anna'Oconnel 
+DataVisualization Project Submitted to Professor Anna O'Connell 
